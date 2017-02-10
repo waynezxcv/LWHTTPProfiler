@@ -1,6 +1,4 @@
 
-[![License MIT](https://img.shields.io/badge/license-MIT-green.svg?style=flat)](https://github.com/waynezxcv/LWAsyncDisplayView/blob/master/LICENSE)&nbsp;
-
 
 
 # LWHTTPProfiler v1.0.0
